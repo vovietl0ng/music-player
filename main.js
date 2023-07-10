@@ -27,7 +27,7 @@ const app = {
   songs: [
     {
       name: "Anh Nhớ Ra",
-      singer: "Vũ., Trang",
+      singer: "Vũ ft Trang",
       path: "music/Anh Nhớ Ra.mp3",
       image:
         "https://i.ytimg.com/an/11XkLOIsLHI/2284248698322291325_mq.jpg?v=631d962a",
